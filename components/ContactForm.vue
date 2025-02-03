@@ -103,7 +103,7 @@
       <div class="text-center">
         <button
           type="submit"
-          class="bg-yellow-950 text-white px-8 py-3 rounded-lg hover:bg-[#7f632e] transition-colors duration-300"
+          class="bg-[#7f632e] text-white px-8 py-3 rounded-lg hover:bg-opacity-90 transition-colors duration-300"
         >
           Envoyer
         </button>

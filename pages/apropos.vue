@@ -110,14 +110,14 @@
           <!-- Image à gauche -->
           <div class="w-full md:w-1/2">
             <img
-              src="/cabinet.jpg"
-              alt="Mon Cabinet"
+              src="/profil.png"
+              alt="Mes valeurs"
               class="w-full h-96 object-cover rounded-2xl shadow-xl"
             />
           </div>
           <!-- Contenu à droite -->
           <div class="w-full md:w-1/2">
-            <h2 class="text-3xl font-bold text-gray-800 mb-6">Mon Cabinet</h2>
+            <h2 class="text-3xl font-bold text-gray-800 mb-6">Mes valeurs</h2>
             <p class="text-gray-600 mb-4">
               Je vous accueille dans un environnement chaleureux et apaisant,
               pensé pour vous offrir un moment de détente et de sérénité.
